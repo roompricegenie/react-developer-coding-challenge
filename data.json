@@ -1,0 +1,290 @@
+[
+  {
+    "room_number": "101",
+    "category": "Standard",
+    "description": "A cozy and comfortable room with a queen-sized bed and a private bathroom.",
+    "image": "./images/1.jpg"
+  },
+  {
+    "room_number": "102",
+    "category": "Standard",
+    "description": "A spacious room with two twin-sized beds and a private bathroom.",
+    "image": "./images/2.jpg"
+  },
+  {
+    "room_number": "103",
+    "category": "Standard",
+    "description": "A bright and airy room with a king-sized bed and a private balcony overlooking the garden.",
+    "image": "./images/3.jpg"
+  },
+  {
+    "room_number": "201",
+    "category": "Deluxe",
+    "description": "A luxurious room with a king-sized bed, a sitting area, and a private bathroom with a jacuzzi.",
+    "image": "./images/4.jpg"
+  },
+  {
+    "room_number": "202",
+    "category": "Deluxe",
+    "description": "An elegant room with a queen-sized bed, a private balcony, and a stunning ocean view.",
+    "image": "./images/5.jpg"
+  },
+  {
+    "room_number": "203",
+    "category": "Deluxe",
+    "description": "A stylish room with two double beds, a mini-fridge, and a private bathroom.",
+    "image": "./images/6.jpg"
+  },
+  {
+    "room_number": "301",
+    "category": "Suite",
+    "description": "A luxurious suite with a separate bedroom, a king-sized bed, a living room with a fireplace, and a private balcony.",
+    "image": "./images/7.jpg"
+  },
+  {
+    "room_number": "302",
+    "category": "Suite",
+    "description": "A spacious suite with two bedrooms, each with a queen-sized bed, a living room with a sofa bed, and two private bathrooms.",
+    "image": "./images/8.jpg"
+  },
+  {
+    "room_number": "303",
+    "category": "Suite",
+    "description": "A romantic suite with a four-poster king-sized bed, a private balcony with a hot tub, and a stunning ocean view.",
+    "image": "./images/9.jpg"
+  },
+  {
+    "room_number": "401",
+    "category": "Family Room",
+    "description": "A spacious room with two queen-sized beds and a bunk bed, a mini-fridge, and a private bathroom.",
+    "image": "./images/10.jpg"
+  },
+  {
+    "room_number": "402",
+    "category": "Family Room",
+    "description": "A cozy room with a king-sized bed and a separate kids' area with bunk beds, a mini-fridge, and a private bathroom.",
+    "image": "./images/11.jpg"
+  },
+  {
+    "room_number": "403",
+    "category": "Family Room",
+    "description": "A fun room with two twin-sized beds and a bunk bed, a mini-fridge, and a private bathroom with a colorful mural.",
+    "image": "./images/12.jpg"
+  },
+  {
+    "room_number": "501",
+    "category": "Superior",
+    "description": "An elegant room with a king-sized bed, a sitting area, and a private balcony with a panoramic view of the city skyline.",
+    "image": "./images/13.jpg"
+  },
+  {
+    "room_number": "502",
+    "category": "Superior",
+    "description": "A modern room with a queen-sized bed, a private balcony, and a sleek bathroom with a rainfall shower.",
+    "image": "./images/14.jpg"
+  },
+  {
+    "room_number": "503",
+    "category": "Superior",
+    "description": "A comfortable room with two double beds, a mini-fridge, and a private bathroom with a bathtub.",
+    "image": "./images/1.jpg"
+  },
+  {
+    "room_number": "601",
+    "category": "Executive",
+    "description": "A spacious room with a king-sized bed, a sitting area with a sofa bed, and a private balcony with a city view.",
+    "image": "./images/2.jpg"
+  },
+  {
+    "room_number": "602",
+    "category": "Executive",
+    "description": "A luxurious room with a four-poster king-sized bed, a private balcony, and a marble bathroom with a jacuzzi.",
+    "image": "./images/3.jpg"
+  },
+  {
+    "room_number": "603",
+    "category": "Executive",
+    "description": "An elegant room with two queen-sized beds, a sitting area, and a private balcony with a breathtaking ocean view.",
+    "image": "./images/4.jpg"
+  },
+  {
+    "room_number": "701",
+    "category": "Penthouse",
+    "description": "A magnificent penthouse suite with two bedrooms, each with a king-sized bed, a living room with a fireplace, and a private rooftop terrace with a hot tub.",
+    "image": "./images/5.jpg"
+  },
+  {
+    "room_number": "702",
+    "category": "Penthouse",
+    "description": "A luxurious penthouse suite with a king-sized bed, a separate living room with a sofa bed, and a private rooftop terrace with a panoramic view of the city skyline.",
+    "image": "./images/6.jpg"
+  },
+  {
+    "room_number": "703",
+    "category": "Penthouse",
+    "description": "A stunning penthouse suite with two bedrooms, each with a queen-sized bed, a living room with a fireplace, and a private rooftop terrace with a BBQ grill.",
+    "image": "./images/7.jpg"
+  },
+  {
+    "room_number": "801",
+    "category": "Studio",
+    "description": "A comfortable studio with a queen-sized bed, a sitting area, and a mini-kitchenette.",
+    "image": "./images/8.jpg"
+  },
+  {
+    "room_number": "802",
+    "category": "Studio",
+    "description": "A cozy studio with a king-sized bed, a mini-kitchenette, and a private bathroom with a shower.",
+    "image": "./images/9.jpg"
+  },
+  {
+    "room_number": "803",
+    "category": "Studio",
+    "description": "A bright and airy studio with two twin-sized beds, a mini-fridge, and a private bathroom.",
+    "image": "./images/10.jpg"
+  },
+  {
+    "room_number": "901",
+    "category": "Standard",
+    "description": "A simple yet comfortable room with a double bed and a private bathroom.",
+    "image": "./images/11.jpg"
+  },
+  {
+    "room_number": "902",
+    "category": "Standard",
+    "description": "A cozy room with a twin-sized bed, a desk, and a private bathroom with a shower.",
+    "image": "./images/12.jpg"
+  },
+  {
+    "room_number": "903",
+    "category": "Standard",
+    "description": "A quiet room with a queen-sized bed, a mini-fridge, and a private bathroom with a bathtub.",
+    "image": "./images/13.jpg"
+  },
+  {
+    "room_number": "1001",
+    "category": "Deluxe",
+    "description": "A spacious room with a king-sized bed, a sitting area, and a private balcony with a view of the ocean.",
+    "image": "./images/14.jpg"
+  },
+  {
+    "room_number": "1002",
+    "category": "Deluxe",
+    "description": "A modern room with a queen-sized bed, a mini-fridge, and a private bathroom with a rainfall shower.",
+    "image": "./images/1.jpg"
+  },
+  {
+    "room_number": "1003",
+    "category": "Deluxe",
+    "description": "An elegant room with two double beds, a sitting area, and a private balcony with a city view.",
+    "image": "./images/2.jpg"
+  },
+  {
+    "room_number": "1101",
+    "category": "Suite",
+    "description": "A luxurious suite with a king-sized bed, a separate living room with a sofa bed, and a private balcony with a breathtaking ocean view.",
+    "image": "./images/3.jpg"
+  },
+  {
+    "room_number": "1102",
+    "category": "Suite",
+    "description": "A stunning suite with two bedrooms, each with a queen-sized bed, a living room with a fireplace, and a private balcony with a view of the city skyline.",
+    "image": "./images/4.jpg"
+  },
+  {
+    "room_number": "1103",
+    "category": "Suite",
+    "description": "A magnificent suite with a four-poster king-sized bed, a sitting area, and a private balcony with a view of the ocean.",
+    "image": "./images/5.jpg"
+  },
+  {
+    "room_number": "1201",
+    "category": "Family",
+    "description": "A spacious room with two queen-sized beds and a bunk bed, a mini-fridge, and a private bathroom with a bathtub.",
+    "image": "./images/6.jpg"
+  },
+  {
+    "room_number": "1202",
+    "category": "Family",
+    "description": "A comfortable room with a king-sized bed, a bunk bed, and a private bathroom with a shower.",
+    "image": "./images/7.jpg"
+  },
+  {
+    "room_number": "1203",
+    "category": "Family",
+    "description": "A cozy room with two twin-sized beds, a bunk bed, and a private bathroom with a bathtub.",
+    "image": "./images/8.jpg"
+  },
+  {
+    "room_number": "1301",
+    "category": "Luxury",
+    "description": "A luxurious room with a king-sized bed, a spa-style bathroom with a whirlpool tub, a separate shower, and a private balcony with a panoramic view of the ocean.",
+    "image": "./images/9.jpg"
+  },
+  {
+    "room_number": "1302",
+    "category": "Luxury",
+    "description": "An opulent room with a king-sized bed, a sitting area, and a private balcony with a view of the city skyline.",
+    "image": "./images/10.jpg"
+  },
+  {
+    "room_number": "1303",
+    "category": "Luxury",
+    "description": "A lavish room with a king-sized bed, a fireplace, and a private balcony with a view of the ocean.",
+    "image": "./images/11.jpg"
+  },
+  {
+    "room_number": "1401",
+    "category": "Business",
+    "description": "A functional room with a queen-sized bed, a work desk, and a private bathroom with a shower.",
+    "image": "./images/12.jpg"
+  },
+  {
+    "room_number": "1402",
+    "category": "Business",
+    "description": "A practical room with a twin-sized bed, a work desk, and a private bathroom with a bathtub.",
+    "image": "./images/13.jpg"
+  },
+  {
+    "room_number": "1403",
+    "category": "Business",
+    "description": "A comfortable room with a king-sized bed, a work desk, and a private bathroom with a shower.",
+    "image": "./images/14.jpg"
+  },
+  {
+    "room_number": "1501",
+    "category": "Accessible",
+    "description": "A spacious room with a queen-sized bed, an accessible bathroom with a roll-in shower, and grab bars.",
+    "image": "./images/1.jpg"
+  },
+  {
+    "room_number": "1502",
+    "category": "Accessible",
+    "description": "A comfortable room with two twin-sized beds, an accessible bathroom with grab bars, and a shower chair.",
+    "image": "./images/2.jpg"
+  },
+  {
+    "room_number": "1503",
+    "category": "Accessible",
+    "description": "A cozy room with a king-sized bed, an accessible bathroom with grab bars, and a bathtub with a transfer bench.",
+    "image": "./images/3.jpg"
+  },
+  {
+    "room_number": "1601",
+    "category": "Pet-friendly",
+    "description": "A comfortable room with a queen-sized bed, a water bowl, and a pet bed for your furry friend.",
+    "image": "./images/4.jpg"
+  },
+  {
+    "room_number": "1602",
+    "category": "Pet-friendly",
+    "description": "A cozy room with a twin-sized bed, a litter box, and a scratching post for your feline companion.",
+    "image": "./images/5.jpg"
+  },
+  {
+    "room_number": "1603",
+    "category": "Pet-friendly",
+    "description": "A welcoming room with a king-sized bed, a dog bed, and a leash for your canine companion.",
+    "image": "./images/6.jpg"
+  }
+]
