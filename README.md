@@ -38,8 +38,4 @@ You have been asked to create a simple React application that allows users to br
   - Deploying the application to a free tier service for hosting
   - Unit tests using Vitest
 
-## Reward
-
-- EUR 100 Amazon Voucher
-
 Good luck!
