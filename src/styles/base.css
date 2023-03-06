@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global */
+body {
+  @apply bg-gray-900;
+}
+
+.main-container {
+  @apply max-w-7xl mx-auto px-4;
+}
+
+h1 {
+  @apply font-extrabold text-4xl sm:text-5xl lg:text-6xl tracking-tight text-center text-white;
+}

@@ -1,13 +1,26 @@
-import hotelRooms from '../data.json'
+import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
+import { Home } from '@pages/Home';
+import { Cleaning } from '@pages/Cleaning';
+import { RoomProvider } from '@contexts/RoomContext';
+import { Header } from '@layout/Header';
 
 function App() {
   return (
-    <div>
-      <h1>React Developer Coding Challenge</h1>
-      <p>Below you can see the data which you will find at ../data.json</p>
-      <pre>{JSON.stringify(hotelRooms, null, 2)}</pre>
-    </div>
-  )
+    <>
+      <Router>
+        <Header />
+
+        <div className="main-container py-5 sm:py-10">
+          <RoomProvider>
+            <Routes>
+              <Route path="/" element={<Home />} />
+              <Route path="/cleaning" element={<Cleaning />} />
+            </Routes>
+          </RoomProvider>
+        </div>
+      </Router>
+    </>
+  );
 }
 
-export default App
+export default App;

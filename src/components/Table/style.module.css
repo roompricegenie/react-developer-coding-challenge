@@ -1,0 +1,37 @@
+.customTable {
+  @apply border-collapse border-spacing-0;
+}
+
+.customTable tr th,
+.customTable tr td {
+  @apply border border-r-transparent border-b-gray-600 p-1;
+}
+
+.customTable tr th:first-child,
+.customTable tr td:first-child {
+  @apply border border-l-transparent;
+}
+
+.customTable tr th {
+  @apply bg-gray-700 border border-t-transparent;
+}
+
+.customTable tr td {
+  @apply bg-gray-700;
+}
+
+.customTable tr:first-child th:first-child {
+  @apply rounded-tl-md;
+}
+
+.customTable tr:first-child th:last-child {
+  @apply rounded-tr-md;
+}
+
+.customTable tr:last-child td:first-child {
+  @apply rounded-bl-md;
+}
+
+.customTable tr:last-child td:last-child {
+  @apply rounded-br-md;
+}
